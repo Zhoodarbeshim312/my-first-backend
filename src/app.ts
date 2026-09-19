@@ -8,7 +8,7 @@ const buildApp = () => {
     origin: [
       "http://localhost:3000",
       "http://localhost:5173",
-      "https://react-crud-dev312.vercel.app/",
+      "https://react-crud-dev312.vercel.app",
     ],
     credentials: true,
   };
